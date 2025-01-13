@@ -46,4 +46,4 @@ Computer Vision Techniques: Image Processing, Object Detection, Machine Learning
 - 💬 Ask me about anything, I will be more than happy to help.
 - 📫 How to reach me: rhythmkulkarni@gmail.com / iamrhythmk@gmail.com
 - 😄 Pronouns: He/Him
-- 📝 [Resume](https://github.com/K4el4R/K4el4R/blob/main/resources/Rhythm_Kulkarni_DSA _Dec24.pdf)
+- 📝 [Resume](https://github.com/K4el4R/K4el4R/blob/main/resources/Rhythm_Kulkarni_DSA_Dec24.pdf)
