@@ -11,15 +11,6 @@
   <img src="https://profile-counter.glitch.me/K4el4R/count.svg" />
 </p>
 
-**Contact Me :**
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. FYI I play games like Dota 2, Valorant, CSGO and Palworld
-<p align="center">
- <a href="https://www.linkedin.com/in/rhythmkulkarni/" target="blank"><img align="center" src="https://github.com/K4el4R/K4el4R/blob/main/resources/linkedin.svg" alt="linkedin.com/in/rhythmkulkarni" height="50" width="50" /></a>
-  <a href="mailto:rhythmkulkarni@gmail.com" target="blank"><img align="center" src="https://github.com/K4el4R/K4el4R/blob/main/resources/gmail.svg" alt="rhythmkulkarni@gmail.com" height="50" width="50" /></a>
-   
-</p>
-
 **Just a Introduction :**
 
 👋 Hi, I'm Rhythm Kulkarni!
@@ -36,6 +27,15 @@ Programming Languages: Python, SQL, R
 Tools: Tableau, Power BI, SolidWorks, AutoCAD
 Platforms: Raspberry Pi, Arduino
 Computer Vision Techniques: Image Processing, Object Detection, Machine Learning
+
+**Contact Me :**
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉. FYI I play games like Dota 2, Valorant, CSGO and Palworld
+<p align="center">
+ <a href="https://www.linkedin.com/in/rhythmkulkarni/" target="blank"><img align="center" src="https://github.com/K4el4R/K4el4R/blob/main/resources/linkedin.svg" alt="linkedin.com/in/rhythmkulkarni" height="50" width="50" /></a>
+  <a href="mailto:rhythmkulkarni@gmail.com" target="blank"><img align="center" src="https://github.com/K4el4R/K4el4R/blob/main/resources/gmail.svg" alt="rhythmkulkarni@gmail.com" height="50" width="50" /></a>
+   
+</p>
 
 ## More info about me! :
 
