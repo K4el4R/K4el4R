@@ -3,7 +3,7 @@
 
 <p align="center">
  <h2 align="center">Welcome To My Repository</h2>
- <h3 align="center">R </h3>
+ <h3 align="center">Rhythm Kulkarni </h3>
 </p>
 
 <p align="center"> 
